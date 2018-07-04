@@ -1,0 +1,2 @@
+# InnovationManagement
+Innovation management - exercises
